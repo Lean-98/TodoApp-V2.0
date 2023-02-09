@@ -9,4 +9,4 @@ TodoApp-V2.0](https://lean-98.github.io/TodoApp-V2.0/)
 
 ### HTML Template
 
-El template perteneche a : @SindreSorhus](https://sindresorhus.com/)
+El template perteneche a : @SindreSorhus(https://sindresorhus.com/)
